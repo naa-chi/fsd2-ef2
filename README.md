@@ -1,2 +1,7 @@
 # fsd2-ef2
-This was not foretold in the ancient murals
+Pasos:
+- Descarga
+- Abre terminal cómo administrador a C:/X/fsd2-ef2/
+- corre npm run dev
+- abre http://localhost:5173
+- Gg
