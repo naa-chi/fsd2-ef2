@@ -12,5 +12,12 @@ export const projects = [
         'Fue simple, calcula el tiempo que un objeto toma en orbitar a otro objeto usando las leyes de Kepler & Newton',
         tags: ['Python'],
         link: 'N/A'
+  },
+  {
+    title: 'Portafolio en GitHub',
+    description:
+      'Acerca de mi, en React',
+      tags: ['React', 'HTML', 'CSS', 'JavaScript', 'Git', 'GitHub'],
+      link: 'https://github.com/naa-chi/fsd2-ef2'
   }
 ]
