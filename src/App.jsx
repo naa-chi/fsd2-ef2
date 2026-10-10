@@ -1,13 +1,12 @@
-import Navbar from './components/Navbar'
-import Hero from './components/Hero'
-import About from './components/About'
-import Projects from './components/Projects'
-import Contact from './components/Contact'
-import Footer from './components/Footer'
+import Navbar from './components/navbar'
+import Hero from './components/hero'
+import About from './components/about'
+import Projects from './components/projects'
+import Contact from './components/contact'
+import Footer from './components/footer'
+import News from './components/news'
 
 export default function App() {
-  // App is just a layout: it decides WHAT sections exist and in what order.
-  // Each section handles its own content and styling.
   return (
     <>
       <Navbar />
@@ -15,6 +14,7 @@ export default function App() {
         <Hero />
         <About />
         <Projects />
+        <News />
         <Contact />
       </main>
       <Footer />
