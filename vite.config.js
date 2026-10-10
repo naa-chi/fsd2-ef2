@@ -3,7 +3,7 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-    base: '/ef-2-fsd-2/',
+    base: '/fsd2-ef2/',
     plugins: [react()],
 
       test: {
